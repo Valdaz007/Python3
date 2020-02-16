@@ -16,9 +16,10 @@
 # Creating a Variable & Assigning a Value
 age = 22        # A Integer Variable
 weight = 100.6  # A Floating Point Variable
-name = "Victor" # A String Varible
+name = "Victor" # A String Variable
 
 
+# Printing Value Contain in each Variable to the Console
 print(name)
 print(age)
 print(weight)
