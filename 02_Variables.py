@@ -13,13 +13,13 @@ print(numlist)
 print(strlist)
 print(mixlist)
 
-input()
+input() # Wait for a Keyboard Event to Continue
 
 # Accessing List Index
 print(numlist[1])
 print(strlist[1])
 
-input()
+input() # Wait for a Keyboard Event
 
 # Adding Items to List using In-Built List Method 'append()'
 alist.append('First')
@@ -32,7 +32,7 @@ print(numlist)
 print(strlist)
 print(mixlist)
 
-input()
+input() # Wait for a Keyboard Event
 
 #Removing Items From a List using In-Built List Method 'pop()'
 alist.pop()
