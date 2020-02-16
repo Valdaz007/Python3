@@ -13,7 +13,7 @@ print(numtuple)
 print(strtuple)
 print(mixtuple)
 
-input()
+input() # Wait for a Keyboard Event
 
 # Accessing Tuple Index
 print(numtuple[3])
