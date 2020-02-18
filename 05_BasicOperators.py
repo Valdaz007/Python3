@@ -26,18 +26,23 @@ print(f"a <= b: {a <= b}")  # Compare if 'a' is Less than or Equal to 'b'
 input()
 
 # Assignment Operators
-a += b
+
+# Add Variables 'a', 'b' and store Sum in variable 'a'
+a += b   
 print(f"a = a + b => a += b: {a}")
 input()
 
+# Subtract Variables 'a', 'b' and store Difference in variable 'a'
 a -= b
 print(f"a = a - b => a += b: {a}")
 input()
 
+# Multiply Variables 'a', 'b' and store Product in variable 'a'
 a *= b
 print(f"a = a * b => a += b: {a}")
 input()
 
+# Divide Variables 'a', 'b' and store Quotient in variable 'a'
 a /= b
 print(f"a = a / b => a += b: {a}")
 input()
