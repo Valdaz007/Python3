@@ -5,6 +5,8 @@
 
 # Program to Print Hello, World 3x
 
+#! Rule to Self Don't Use While Loop Unless Neccessary Only Use the Pythonic Way of Looping!
+
 
 print("While Loop")
 # While Loop
